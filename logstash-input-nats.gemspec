@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = 'logstash-input-example'
+  s.name = 'logstash-input-nats'
   s.version         = '0.1.2'
   s.licenses = ['Apache License (2.0)']
   s.summary = "This example input streams a string at a definable interval."
